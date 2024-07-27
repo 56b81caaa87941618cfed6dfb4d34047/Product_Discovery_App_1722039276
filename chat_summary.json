@@ -1,64 +1,98 @@
 [
     {
-        "role": "makeinfinite",
-        "content": "Can you describe the project a bit more?",
-        "message_id": "project_init",
-        "timestamp": "1722039278",
-        "component_file_name": "",
-        "div_id": ""
-    },
-    {
         "role": "user",
         "content": "add a navbar with the fields home, about and contact",
-        "timestamp": "27072024001447",
-        "message_id": "mymessageid"
-    },
-    {
-        "role": "user",
-        "content": "add a navbar with the fields home, about and contact",
-        "timestamp": "27072024001851",
-        "message_id": "mymessageid"
-    },
-    {
-        "role": "user",
-        "content": "add a navbar with the fields home, about and contact",
-        "timestamp": "27072024002248",
-        "message_id": "mymessageid"
+        "message_id": "mymessageid",
+        "timestamp": "27072024002616",
+        "component_file_name": null,
+        "div_id": null,
+        "div_action": null
     },
     {
         "role": "makeinfinite",
         "content": "can you describe the project a bit more?",
-        "timestamp": "27072024002248",
-        "message_id": "mymessageid"
+        "message_id": "mymessageid",
+        "timestamp": "27072024002458",
+        "component_file_name": null,
+        "div_id": null,
+        "div_action": null
     },
     {
         "role": "makeinfinite",
         "content": "can you describe the project a bit more?",
-        "timestamp": "27072024002248",
-        "message_id": "mymessageid"
+        "message_id": "mymessageid",
+        "timestamp": "27072024002458",
+        "component_file_name": null,
+        "div_id": null,
+        "div_action": null
     },
     {
         "role": "user",
         "content": "add a navbar with the fields home, about and contact",
+        "message_id": "mymessageid",
+        "timestamp": "27072024002458",
+        "component_file_name": null,
+        "div_id": null,
+        "div_action": null
+    },
+    {
+        "role": "user",
+        "content": "add a navbar with the fields home, about and contact",
+        "message_id": "mymessageid",
         "timestamp": "27072024002424",
-        "message_id": "mymessageid"
+        "component_file_name": null,
+        "div_id": null,
+        "div_action": null
+    },
+    {
+        "role": "makeinfinite",
+        "content": "can you describe the project a bit more?",
+        "message_id": "mymessageid",
+        "timestamp": "27072024002248",
+        "component_file_name": null,
+        "div_id": null,
+        "div_action": null
+    },
+    {
+        "role": "makeinfinite",
+        "content": "can you describe the project a bit more?",
+        "message_id": "mymessageid",
+        "timestamp": "27072024002248",
+        "component_file_name": null,
+        "div_id": null,
+        "div_action": null
     },
     {
         "role": "user",
         "content": "add a navbar with the fields home, about and contact",
-        "timestamp": "27072024002458",
-        "message_id": "mymessageid"
+        "message_id": "mymessageid",
+        "timestamp": "27072024002248",
+        "component_file_name": null,
+        "div_id": null,
+        "div_action": null
     },
     {
-        "role": "makeinfinite",
-        "content": "can you describe the project a bit more?",
-        "timestamp": "27072024002458",
-        "message_id": "mymessageid"
+        "role": "user",
+        "content": "add a navbar with the fields home, about and contact",
+        "message_id": "mymessageid",
+        "timestamp": "27072024001851",
+        "component_file_name": null,
+        "div_id": null,
+        "div_action": null
     },
     {
-        "role": "makeinfinite",
-        "content": "can you describe the project a bit more?",
-        "timestamp": "27072024002458",
+        "role": "user",
+        "content": "add a navbar with the fields home, about and contact",
+        "message_id": "mymessageid",
+        "timestamp": "27072024001447",
+        "component_file_name": null,
+        "div_id": null,
+        "div_action": null
+    },
+    {
+        "role": "summary",
+        "content": "Can you describe the project a bit more?",
+        "timestamp": "27072024002616",
         "message_id": "mymessageid"
     }
 ]
