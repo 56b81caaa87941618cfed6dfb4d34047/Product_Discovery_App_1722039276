@@ -14,40 +14,6 @@ Vue.component("simple_cta_component_1722039278", {
                 </div>
             </div>
         </nav>
-        <nav class="bg-white shadow dark:bg-gray-800">
-            <div class="container flex items-center justify-between p-6 mx-auto text-gray-600 capitalize dark:text-gray-300">
-                <a href="#" class="text-gray-800 dark:text-white text-xl font-bold">Logo</a>
-                
-                <div class="flex items-center">
-                    <a href="#" class="text-gray-800 dark:text-gray-200 border-b-2 border-blue-500 mx-1.5 sm:mx-6">Home</a>
-                    <a href="#" class="border-b-2 border-transparent hover:text-gray-800 dark:hover:text-gray-200 hover:border-blue-500 mx-1.5 sm:mx-6">About</a>
-                    <a href="#" class="border-b-2 border-transparent hover:text-gray-800 dark:hover:text-gray-200 hover:border-blue-500 mx-1.5 sm:mx-6">Contact Us</a>
-                </div>
-            </div>
-        </nav>
-        <nav class="bg-white shadow dark:bg-gray-800">
-            <div class="container flex items-center justify-between p-6 mx-auto text-gray-600 capitalize dark:text-gray-300">
-                <a href="#" class="text-gray-800 dark:text-white text-xl font-bold">Logo</a>
-                
-                <div class="flex items-center">
-                    <a href="#" class="text-gray-800 dark:text-gray-200 border-b-2 border-blue-500 mx-1.5 sm:mx-6">Home</a>
-                    <a href="#" class="border-b-2 border-transparent hover:text-gray-800 dark:hover:text-gray-200 hover:border-blue-500 mx-1.5 sm:mx-6">About</a>
-                    <a href="#" class="border-b-2 border-transparent hover:text-gray-800 dark:hover:text-gray-200 hover:border-blue-500 mx-1.5 sm:mx-6">Contact Us</a>
-                </div>
-            </div>
-        </nav>
-        <nav class="bg-white shadow dark:bg-gray-800">
-            <div class="container flex items-center justify-between p-6 mx-auto text-gray-600 capitalize dark:text-gray-300">
-                <a href="#" class="text-gray-800 dark:text-white text-xl font-bold">Logo</a>
-                
-                <div class="flex items-center">
-                    <a href="#" class="text-gray-800 dark:text-gray-200 border-b-2 border-blue-500 mx-1.5 sm:mx-6">Home</a>
-                    <a href="#" class="border-b-2 border-transparent hover:text-gray-800 dark:hover:text-gray-200 hover:border-blue-500 mx-1.5 sm:mx-6">About</a>
-                    <a href="#" class="border-b-2 border-transparent hover:text-gray-800 dark:hover:text-gray-200 hover:border-blue-500 mx-1.5 sm:mx-6">Contact Us</a>
-                </div>
-            </div>
-        </nav>
-
         <section id="cta-component" class="bg-gray-50 dark:bg-gray-800 flex-1">
             <div id="cta-inner-container" class="max-w-screen-xl px-4 py-8 mx-auto lg:py-16 lg:px-6">
                 <div id="cta-content" class="max-w-screen-sm mx-auto text-center">
